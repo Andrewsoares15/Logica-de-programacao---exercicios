@@ -1,4 +1,4 @@
-#Melhore o programa da tabulada utilizando o while.
+#Melhore o programa da tabuada utilizando o while.
 n = int(input("Tabuada de: "))
 inicio = int(input("Começa em: "))
 fim = int(input("até: "))

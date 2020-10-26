@@ -1,4 +1,4 @@
-#Melhore o programa da tabulada utilizando o while.
+#Melhore o programa da tabuada utilizando o while.
 #Modifique a tabuada para que o usuário possa
 #escolher o início e o fim, ao invés de começar com 1 e
 #ir até 10.
