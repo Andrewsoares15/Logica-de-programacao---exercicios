@@ -1,2 +1,2 @@
 # Praticando-com-Python
-Exercícios desenvolvidos em python.
+Mais de 60 exercícios desenvolvidos em python.
