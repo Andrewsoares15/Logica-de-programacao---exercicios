@@ -1,2 +1,2 @@
 # Praticando-com-Python
-Exercícios desenvolvidos em python
+Exercícios desenvolvidos em python.
